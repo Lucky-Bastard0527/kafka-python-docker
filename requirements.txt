@@ -1,0 +1,6 @@
+Package      Version
+------------ -------
+kafka        1.3.5
+kafka-python 2.0.2
+pip          22.2.2
+setuptools   63.2.0
